@@ -5,9 +5,6 @@
 **/coverage
 
 # build
-**/dist
-**/build
-**/dist-zip
 
 # env
 **/.env.local
